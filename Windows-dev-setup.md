@@ -4,19 +4,21 @@
 # env setup
 ## IDE
 ### terminal:
-C:\cygwin64\bin\mintty.exe
+- C:\cygwin64\bin\mintty.exe
 
 ### git:
-C:\cygwin64\bin\git.exe
+- C:\cygwin64\bin\git.exe
 
 ### default settings:
-maven 3.3.9, config, cache path
+- maven 3.3.9
+- config.xml path
+- cache path
 
 ![](./idea-maven-config.JPG)
 
 ### default Project Structure:
-level: 1.8, 8
-SDKs: jdk 1.6, 1.8
+- level: 1.8, 8
+- SDKs: jdk 1.6, 1.8
 
 ### plugins:
 - Lombok Plugin
