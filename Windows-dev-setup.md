@@ -3,37 +3,37 @@
 
 # env setup
 ## IDE
-
-terminal:
+### terminal:
 C:\cygwin64\bin\mintty.exe
 
-git:
+### git:
 C:\cygwin64\bin\git.exe
 
-default settings:
+### default settings:
 maven 3.3.9, config, cache path
 
 ![](./idea-maven-config.JPG)
 
-default Project Structure:
+### default Project Structure:
 level: 1.8, 8
 SDKs: jdk 1.6, 1.8
 
-plugins:
+### plugins:
 Lombok Plugin
 
 
 
-## PATH
+## PATH related
+### PATH
 ```bash
 C:\cygwin64\bin\
 C:\DevTools\apache-maven-2.2.1\bin
 C:\Program Files\Java\jdk1.6.0
 C:\Program Files\Java\jdk1.8.0
+```bash
 
-java config:
+### java config:
 remove dir C:\ProgramData\Oracle\Java\javapath
-```
 
 # tools
 - 绿色版软件（Xshell）需要安装微软VC运行库，尽量在刚开机的时候安装，装完重启下，link:待上传
