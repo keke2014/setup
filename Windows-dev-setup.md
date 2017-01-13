@@ -19,9 +19,9 @@ level: 1.8, 8
 SDKs: jdk 1.6, 1.8
 
 ### plugins:
-Lombok Plugin
-Open in terminal
-Open Terminal Here
+- Lombok Plugin
+- Open in terminal
+- Open Terminal Here
 
 
 ## PATH related
@@ -31,7 +31,7 @@ C:\cygwin64\bin\
 C:\DevTools\apache-maven-2.2.1\bin
 C:\Program Files\Java\jdk1.6.0
 C:\Program Files\Java\jdk1.8.0
-```bash
+```
 
 ### java config:
 remove dir C:\ProgramData\Oracle\Java\javapath
