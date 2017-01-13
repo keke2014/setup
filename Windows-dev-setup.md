@@ -29,8 +29,8 @@
 PATH
 C:\cygwin64\bin\
 C:\DevTools\apache-maven-2.2.1\bin
-C:\Program Files\Java\jdk1.6.0
-C:\Program Files\Java\jdk1.8.0
+C:\Program Files\Java\jdk1.6.0\bin
+C:\Program Files\Java\jdk1.8.0\bin
 %JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;
 
 JAVA_HOME
