@@ -12,6 +12,7 @@ C:\cygwin64\bin\git.exe
 
 default settings:
 maven 3.3.9, config, cache path
+![](./idea-maven-config.JPG)
 
 default Project Structure:
 level: 1.8, 8
