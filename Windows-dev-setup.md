@@ -20,7 +20,8 @@ SDKs: jdk 1.6, 1.8
 
 ### plugins:
 Lombok Plugin
-
+Open in terminal
+Open Terminal Here
 
 
 ## PATH related
