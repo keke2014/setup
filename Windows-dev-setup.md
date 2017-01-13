@@ -34,7 +34,7 @@ C:\Program Files\Java\jdk1.8.0\bin
 %JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;
 
 JAVA_HOME
-C:\Java\jdk1.6.0
+C:\Program Files\Java\jdk1.6.0
 
 CLASSPATH
 .;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar
@@ -50,7 +50,9 @@ C:\DevTools\eclipse
 ```
 
 ## java config:
-remove dir C:\ProgramData\Oracle\Java\javapath
+- remove dir C:\ProgramData\Oracle\Java\javapath
+- PATH-C:\Program Files\Java\jdk1.6.0\bin
+- HKEY_LOCAL_MACHINE-'Software\JavaSoft\Java Runtime Environment\CurrentVersion'
 
 ## other arguments
 ```bash
