@@ -3,7 +3,7 @@
 
 # env setup
 ## IDE
-```bash
+
 terminal:
 C:\cygwin64\bin\mintty.exe
 
@@ -12,6 +12,7 @@ C:\cygwin64\bin\git.exe
 
 default settings:
 maven 3.3.9, config, cache path
+
 ![](./idea-maven-config.JPG)
 
 default Project Structure:
@@ -20,7 +21,7 @@ SDKs: jdk 1.6, 1.8
 
 plugins:
 Lombok Plugin
-```
+
 
 
 ## PATH
