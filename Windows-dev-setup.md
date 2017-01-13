@@ -9,3 +9,30 @@
 - updating：xmind
 - specials：Xshell、astash、Axure、idea15、jdk8u20
 - cygwin，subversion，git，tortoiseSVN, tortoiseGit
+
+=================ide==============
+terminal:
+C:\cygwin64\bin\mintty.exe
+
+git:
+C:\cygwin64\bin\git.exe
+
+default settings:
+maven 3.3.9, config, cache path
+
+default Project Structure:
+level: 1.8, 8
+SDKs: jdk 1.6, 1.8
+
+plugins:
+Lombok Plugin
+
+
+===============path================
+C:\cygwin64\bin\
+C:\DevTools\apache-maven-2.2.1\bin
+C:\Program Files\Java\jdk1.6.0
+C:\Program Files\Java\jdk1.8.0
+
+java config:
+remove dir C:\ProgramData\Oracle\Java\javapath
