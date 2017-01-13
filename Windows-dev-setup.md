@@ -33,6 +33,37 @@ C:\cygwin64\bin\
 C:\DevTools\apache-maven-2.2.1\bin
 C:\Program Files\Java\jdk1.6.0
 C:\Program Files\Java\jdk1.8.0
+
+JAVA_HOME
+D:\Java\jdk1.6.0
+
+M2_HOME
+D:\DevTools\apache-maven-2.2.1
+
+M2_REPO
+D:\Repositories\m2
+
+ECLIPSE_HOME
+D:\Taobao\DevTools\eclipse
+
+PATH
+%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;
+
+CLASSPATH
+.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar
+
+添加虚拟机参数
+-XX:PermSize=64M -XX:MaxPermSize=256M
+-Dpandora.location=D:\hsf\2_5_150420\taobao-hsf.sar
+-Dhotcode.base=D:\Repositories\tosp-userface\tosp-userface\tosp-userface-web
+
+clean package -Dmaven.test.skip
+
+-XX:PermSize=64M
+-XX:MaxPermSize=256M
+-Dpandora.location=D:/hsf/2.1.0.7/taobao-hsf.sar
+-Dhotcode.base=D:/Repositories/tosp-userface/tosp-userface/tosp-userface-web
+-Dhotcode.confFile=D:/Repositories/tosp-userface/tosp-userface/tosp-userface-web/workspace.xml
 ```
 
 ### java config:
