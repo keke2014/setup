@@ -21,6 +21,7 @@
 
 ## plugins:
 - Lombok Plugin
+- SonarLint
 - Open in terminal
 - Open Terminal Here
 
