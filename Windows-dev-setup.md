@@ -37,8 +37,7 @@ M2_HOME
 C:\DevTools\apache-maven-2.2.1
 
 PATH
-C:\cygwin64\bin\
-%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;
+C:\cygwin64\bin;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;
 
 M2_REPO
 C:\mavenRepoCache
@@ -49,7 +48,7 @@ C:\DevTools\eclipse
 
 ## java config:
 - remove dir C:\ProgramData\Oracle\Java\javapath
-- PATH-C:\Program Files\Java\jdk1.6.0\bin
+- PATH-上面已设置
 - HKEY_LOCAL_MACHINE-'Software\JavaSoft\Java Runtime Environment\CurrentVersion'
 
 ## other arguments
