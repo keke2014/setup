@@ -27,13 +27,6 @@
 
 # Windows Environment
 ```bash
-PATH
-C:\cygwin64\bin\
-C:\DevTools\apache-maven-2.2.1\bin
-C:\Program Files\Java\jdk1.6.0\bin
-C:\Program Files\Java\jdk1.8.0\bin
-%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;
-
 JAVA_HOME
 C:\Program Files\Java\jdk1.6.0
 
@@ -42,6 +35,10 @@ CLASSPATH
 
 M2_HOME
 C:\DevTools\apache-maven-2.2.1
+
+PATH
+C:\cygwin64\bin\
+%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;
 
 M2_REPO
 C:\mavenRepoCache
